@@ -1,6 +1,5 @@
 # Comment the below line in when a release should not contain source code files (e.g. for dependency builds).
 #/* export-ignore
-
 # Use Unix (LF) line endings for all text files, but do not normalize binary files
 *        text eol=lf
 *.png    -text
@@ -9,3 +8,5 @@
 *.ico    -text
 *.7z     -text
 *.pdf    -text
+# Use Git Large File Storage (LFS) for files that exceed 100.00 MiB
+sys/CCCpqrCCrpCsp,COp/excerpt/l40l30-dProofs1-141_2-2times.txt filter=lfs diff=lfs merge=lfs -text
