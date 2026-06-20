@@ -4,6 +4,7 @@
 
 - Hash: `97553789db1645226627da044ed0a2e6a9cfd5963d66a8a44e121146` [i.e. [SHA512/224](https://emn178.github.io/online-tools/sha512_224.html?input=CCC0.1.2CC2.0C3.0&input_type=utf-8&output_type=hex)("`CCC0.1.2CC2.0C3.0`")]
 - System: `CCCpqrCCrpCsp` [i.e. `1`:[`((p→q)→r)→((r→p)→(s→p))`](https://xamidi.github.io/logic-structuralizer/)]
+- Demonstration: [xamidi/pmGenerator#13](https://github.com/xamidi/pmGenerator/discussions/13#discussioncomment-17370222)
 
 <details open><summary>Fingerprint <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture> &nbsp;<sup><sub>[<a href="https://xamidi.github.io/pmData/sys/CCCpqrCCrpCsp/bgraph_grayscale.svg">grayscale</a>] [<a href="https://xamidi.github.io/pmData/sys/CCCpqrCCrpCsp/plot_data_x400.txt">raw</a>]</sub></sup></summary>
 <a href="https://xamidi.github.io/pmData/sys/CCCpqrCCrpCsp/bgraph.svg"><img src="bgraph.svg" alt="CCCpqrCCrpCsp/bgraph.svg" width="700"></a></details>
