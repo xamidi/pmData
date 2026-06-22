@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this project, please support it by providing a citation."
+type: dataset
 authors:
   - family-names: "Discher"
     given-names: "Samiro"
