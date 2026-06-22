@@ -12,13 +12,13 @@ Sharing data in this manner enables researchers to build upon past work rather t
 
 | System | Fragment | Number of Symbols | Axioms |
 | :-- | :--: | --: | :-- |
-| [Łukasiewicz's implicational axiom](sys/CCCpqrCCrpCsp#readme) | C | 13 (minimal 1‑basis) | ((ψ→φ)→χ)→((χ→ψ)→(ξ→ψ)) |
+| [Łukasiewicz's implicational axiom](https://github.com/xamidi/pmData/tree/master/sys/CCCpqrCCrpCsp#readme) | C | 13 (minimal 1‑basis) | ((ψ→φ)→χ)→((χ→ψ)→(ξ→ψ)) |
 
 ## Classical Logic
 
 | System | Fragment | Number of Symbols | Axioms |
 | :-- | :--: | --: | :-- |
-| [Łukasiewicz's implicational axiom with the principle of explosion](sys/CCCpqrCCrpCsp,COp#readme) | C-O | 13+3 = 16<br>(minimal 2‑basis) | ((ψ→φ)→χ)→((χ→ψ)→(ξ→ψ))<br>⊥→ψ |
+| [Łukasiewicz's implicational axiom with the principle of explosion](https://github.com/xamidi/pmData/tree/master/sys/CCCpqrCCrpCsp,COp#readme) | C-O | 13+3 = 16<br>(minimal 2‑basis) | ((ψ→φ)→χ)→((χ→ψ)→(ξ→ψ))<br>⊥→ψ |
 | [Meredith's axiom](https://xamidi.github.io/pmGenerator/README.html#merediths-axiom-1-basis-cccccpqcnrnsrtcctpcsp-top1000-cardinalities-nd-sample-info)   | C-N | 21 (minimal 1‑basis) | ((((ψ→φ)→(¬χ→¬ξ))→χ)→τ)→((τ→ψ)→(ξ→ψ)) |
 | [Walsh's 1st axiom](https://xamidi.github.io/pmGenerator/README.html#walshs-1st-axiom-1-basis-ccpccnpqrcsccntcrtcpt-top1000-cardinalities-nd-sample-info) | C-N | 21 (minimal 1‑basis) | (ψ→((¬ψ→φ)→χ))→(ξ→((¬τ→(χ→τ))→(ψ→τ))) |
 | [Walsh's 2nd axiom](https://xamidi.github.io/pmGenerator/README.html#walshs-2nd-axiom-1-basis-cpccqcprccnrccnstqcsr-top1000-cardinalities-nd-sample-info) | C-N | 21 (minimal 1‑basis) | ψ→((φ→(ψ→χ))→((¬χ→((¬ξ→τ)→φ))→(ξ→χ))) |
