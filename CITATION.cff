@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this project, please support it by providing a citation."
+authors:
+  - family-names: "Discher"
+    given-names: "Samiro"
+    alias: "xamidi"
+    orcid: "https://orcid.org/0009-0008-4967-3309"
+title: "Data on Hilbert proof systems"
+version: "1.0.0"
+date-released: 2026-06-22
+url: "https://github.com/xamidi/pmData"
