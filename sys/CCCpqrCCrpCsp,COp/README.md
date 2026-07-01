@@ -8,7 +8,7 @@
 
 <details open><summary>Fingerprint <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture> &nbsp;<sup><sub>[<a href="https://xamidi.github.io/pmData/sys/CCCpqrCCrpCsp,COp/bgraph_grayscale.svg">grayscale</a>] [<a href="https://xamidi.github.io/pmData/sys/CCCpqrCCrpCsp,COp/plot_data_x400.txt">raw</a>]</sub></sup></summary>
 <a href="https://xamidi.github.io/pmData/sys/CCCpqrCCrpCsp,COp/bgraph.svg"><img src="bgraph.svg" alt="CCCpqrCCrpCsp,COp/bgraph.svg" width="700"></a></details>
-<details open><summary>Data <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
+<details open markdown="1"><summary>Data <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
 
 |                                                                                           Files up to..                                                                                           | &nbsp; Size of Files   <br>[B]         &nbsp; |                                              +Costs&nbsp;&nbsp;<br>[≈core&#x2011;h]                |                                                                Recent&nbsp;<br>Growth                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------:| --------------------------------------------------------------------------------------------------:| ----------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -24,7 +24,7 @@
   - Includes all up-to-17-symbol theorems that can be generated in up to 93 steps.
 
 </details>
-<details><summary>Cardinalities <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
+<details markdown="1"><summary>Cardinalities <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
 
 ```
          2 dProofs1.txt
@@ -152,7 +152,7 @@ DDD1DDDDDD1D1D1D1DDDD1D1D1111111111DDDDDD1D1D1D1DDDD1D1D111111111DDDD1DDDD1DDD1D
 
 <sup>**#₁**⬚ means number of ⬚ w.r.t. `CCCpqrCCrpCsp`; **#₂**⬚ means number of ⬚ w.r.t. `CCCpqrCCrpCsp,COp`. **F** stands for derived **f**ormulas.</sup>
 
-<details><summary><em><strong><sub><sup>Full table: Σ<sub>filtered</sub></sup></sub></strong></em> <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
+<details markdown="1"><summary><em><strong><sub><sup>Full table: Σ<sub>filtered</sub></sup></sub></strong></em> <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
 
 |                              |      #₁F   &nbsp;       |      #₂F   &nbsp;       |      ΔF   &nbsp;       |      #₁`C`   &nbsp;      |      #₂`C`   &nbsp;      |      #₁`1`   &nbsp;      |      #₂`1`   &nbsp;      |     #₂`2` &nbsp;      |      #₂`O` &nbsp;      |
 | ---------------------------- | -----------------------:| -----------------------:| ----------------------:| ------------------------:| ------------------------:| ------------------------:| ------------------------:| ---------------------:| ----------------------:|
@@ -228,7 +228,7 @@ I invite you to draw further interesting connections! Please turn it into [a com
 
 The data listed above is insufficient to combine multiple properties of a single entry, e.g. to determine usage distributions of primitives per proof or theorem. The following table shows how many proofs have one or multiple `2`-references, and how many `2`-referencing proofs derive `O`-free theorems. These numbers appear alongside **#₂F** and **#₂`2`** — the numbers of formulas and `2`-references (already listed above) — for easier comparison.
 
-<details><summary><em><strong><sub><sup>Full table: Σ<sub>filtered</sub></sup></sub></strong></em> <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
+<details markdown="1"><summary><em><strong><sub><sup>Full table: Σ<sub>filtered</sub></sup></sub></strong></em> <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
 
 |                              |      #₂F   &nbsp;       |     #₂`2` &nbsp;      |      #₂F[#`2`≥1]      |     #₂F[#`2`≥2]      |    #₂F[#`2`≥3]     |  #₂F[#`2`≥1,#`O`=0]  |
 | ---------------------------- | -----------------------:| ---------------------:| ---------------------:| --------------------:| ------------------:| --------------------:|

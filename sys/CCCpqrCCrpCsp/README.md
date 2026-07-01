@@ -8,7 +8,7 @@
 
 <details open><summary>Fingerprint <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture> &nbsp;<sup><sub>[<a href="https://xamidi.github.io/pmData/sys/CCCpqrCCrpCsp/bgraph_grayscale.svg">grayscale</a>] [<a href="https://xamidi.github.io/pmData/sys/CCCpqrCCrpCsp/plot_data_x400.txt">raw</a>]</sub></sup></summary>
 <a href="https://xamidi.github.io/pmData/sys/CCCpqrCCrpCsp/bgraph.svg"><img src="bgraph.svg" alt="CCCpqrCCrpCsp/bgraph.svg" width="700"></a></details>
-<details open><summary>Data <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
+<details open markdown="1"><summary>Data <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
 
 |                                                                                           Files up to..                                                                                           | &nbsp; Size of Files   <br>[B]         &nbsp; |                                            +Costs&nbsp;&nbsp;<br>[≈core&#x2011;h]              |                                                                Recent&nbsp;<br>Growth                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------:| ----------------------------------------------------------------------------------------------:| ----------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -24,7 +24,7 @@
   - Includes all up-to-19-symbol theorems that can be generated in up to 93 steps.
 
 </details>
-<details><summary>Cardinalities <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
+<details markdown="1"><summary>Cardinalities <picture><img src="https://xamidi.github.io/pmGenerator/svg/click-cursor.svg" width="20" alt="☜"></picture></summary>
 
 ```
          1 dProofs3.txt
