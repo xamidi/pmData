@@ -1,0 +1,12 @@
+image: alpine:latest
+create-pages:
+  stage: deploy
+  pages:
+    publish: public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+  script:
+    - mkdir .public
+    - cp -r * .public
+    - mv .public public
+    - echo '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>README</title><meta http-equiv="refresh" content="0; URL=README.md"></head></html>' > public/index.html
